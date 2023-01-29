@@ -4,9 +4,9 @@ Simple Telegram Bot to fetch weather details
 
 # Local Environment Setup
 
-- Clone Repo using `git clone `
+- Clone Repo using `git clone https://github.com/DevShobhit/weather-telegram-bot.git`
 - Install necessary dependencies using `npm install`
-- Generate BOT TOKEN using BOTFATHER
+- Generate BOT TOKEN using BOTFATHER Bot
 - Set the generated token in the `.env` file
 - Also set the Api key for the weather api in `.env` file
 - Start the app using `npm start`
