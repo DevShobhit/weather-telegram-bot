@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Simple Bot to fetch weather data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "DevShobhit",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.5",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
